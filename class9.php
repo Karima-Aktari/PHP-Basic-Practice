@@ -23,4 +23,5 @@ $array = [
     // echo $array['mobile_number'];
     echo '<br/>';
     echo '<br/>';
+    echo '<br/>';
     print_r($array);
